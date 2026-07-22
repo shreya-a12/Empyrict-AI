@@ -1,0 +1,18 @@
+# Virtual Environment
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ML Models
+*.pkl
