@@ -1,0 +1,5 @@
+{
+    "best_model": "Logistic Regression",
+    "model_file": "logistic_regression.pkl",
+    "requires_scaling": true
+}
